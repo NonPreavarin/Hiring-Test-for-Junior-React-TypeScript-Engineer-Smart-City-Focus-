@@ -1,0 +1,6 @@
+[
+    { "id": 1, "location": "FRONT", "fillLevel": 30 },
+    { "id": 2, "location": "BACK", "fillLevel": 85 },
+    { "id": 3, "location": "MIDDLE", "fillLevel": 50 }
+]
+  
